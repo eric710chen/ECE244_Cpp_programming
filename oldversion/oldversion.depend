@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1447992319 source:c:\users\eric\desktop\244 lab\oldversion\binarysearchtree.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	"BinarySearchTree.h"
+
+1447918913 c:\users\eric\desktop\244 lab\oldversion\binarysearchtree.h
+	"DBentry.h"
+
+1447918913 c:\users\eric\desktop\244 lab\oldversion\dbentry.h
+
+1447918913 source:c:\users\eric\desktop\244 lab\oldversion\dbentry.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	"DBentry.h"
+
+1447918913 source:c:\users\eric\desktop\244 lab\oldversion\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	"DBentry.h"
+	"BinarySearchTree.h"
+
